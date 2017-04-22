@@ -1,0 +1,9 @@
+c:\users\zapio\documents\visual studio 2017\Projects\grafikalab3\grafikalab3\bin\Debug\grafikalab3.exe.config
+c:\users\zapio\documents\visual studio 2017\Projects\grafikalab3\grafikalab3\bin\Debug\grafikalab3.exe
+c:\users\zapio\documents\visual studio 2017\Projects\grafikalab3\grafikalab3\bin\Debug\grafikalab3.pdb
+c:\users\zapio\documents\visual studio 2017\Projects\grafikalab3\grafikalab3\obj\Debug\grafikalab3.csprojResolveAssemblyReference.cache
+c:\users\zapio\documents\visual studio 2017\Projects\grafikalab3\grafikalab3\obj\Debug\grafikalab3.Form1.resources
+c:\users\zapio\documents\visual studio 2017\Projects\grafikalab3\grafikalab3\obj\Debug\grafikalab3.Properties.Resources.resources
+c:\users\zapio\documents\visual studio 2017\Projects\grafikalab3\grafikalab3\obj\Debug\grafikalab3.csproj.GenerateResource.Cache
+c:\users\zapio\documents\visual studio 2017\Projects\grafikalab3\grafikalab3\obj\Debug\grafikalab3.exe
+c:\users\zapio\documents\visual studio 2017\Projects\grafikalab3\grafikalab3\obj\Debug\grafikalab3.pdb
